@@ -1,4 +1,4 @@
-from ArbolesBinarios import AB, Nodo
+from utils.src.ArbolesBinarios import AB, Nodo
 
 ''' Clase arbol binario de busqueda, genera la estructura de un arbol binario
     de busqueda asi como sus funciones.'''
